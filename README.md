@@ -1,2 +1,2 @@
 # flipkart_item_order
-Hi Fr``git branch -M maingit push -u origin main``iends
+This is automation code of ordering a item on flipkart. I have used Pyhthon framework Pytest-BDD and Selenium here.
